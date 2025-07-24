@@ -15,4 +15,6 @@ for (let i = 0; i < list.length; i++) {
     
 let colores = ["rojo", "verde", "azul", "amarillo"];
 
+
+
 for (let i = 0; i < colores.length; i++) {   console.log(colores[i]); }
